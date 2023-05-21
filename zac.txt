@@ -1,1 +1,1 @@
-{'ver1':'22', 'ver2':'00', 'ver3':'\n [اضافة] تحسين الحماية ضد الحظر بشكل كبير','dli':'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html'}
+{'ver1':'21', 'ver2':'00', 'ver3':'\n [اضافة] تحسين الحماية ضد الحظر بشكل كبير','dli':'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html'}
