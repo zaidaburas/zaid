@@ -2,21 +2,16 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet"></link>
 </head>
-
 <style>
 @font-face {font-family: 'sn'; src: url('sn.ttf');}
 @font-face {font-family: 'se'; src: url('se.ttf');}
 @font-face {font-family: 't'; src: url('t.ttf');} 
-
 font{
 font-family: se;
 font-size: 24px;
 }
-
 .lh{
 line-height:35px;
-
-
 }
 body{
 background-color:#white;
@@ -49,14 +44,12 @@ padding: 5px;
 border-radius: 100px 0px 0px 0px;
 font-family: se;
 font-size: 50px;
-
 }
 .square2{
 background: #5A8E99;
 height:100%;
 width:290px;
 border-radius: 0px 0px 100px 0px;
-
 }
 .circle{
 background: #005F70;
@@ -72,8 +65,6 @@ background: #D1DFE8;
 height:45px;
 width:350px;
 border-radius: 300px 0px 0px 0px;
-
-
 }
 .t2{
 background: #005F70;
@@ -83,36 +74,26 @@ border-radius: 300px 0px 0px 0px;
 font-family: t;
 font-size: 24px;
 text-align: center;
-
 }
-
 .z{
 background: #5A8E99;
 width:69.5%;
 height:1150px;
 margin-right:15px;
-
 }
 .z2{
 background: #5A8E99;
 width:98%;
 height:100%;
 margin-right:15px;
-
 }
 .po{
 width:120px;
-
-
 }
 </style>
 <body>
-
 <article>
-
-
  <aside>
- 
 <div class="square" align="center">
 <br><br>
 <img src="is.jpg" width="80%"/>
@@ -134,8 +115,6 @@ width:120px;
 <div class="lh" style="line-height:40px" align="right">
 <br style="line-height:26px"/>
 <font>
-
- 
 86% <progress  max="100" class="po" value="14" ></progress>
 قراءة
 <br/>
@@ -149,14 +128,11 @@ width:120px;
 برمجة
 <br/>
 </font>
-
 </div>
-
 <br />
 <div class="circle">معلومات التواصل</div>
 <br />
 <img src="call.png" width="17%" alt="zi" align="right"/>
-
 <div class="lh" align="right">
 <font >
 <a href="mailto:issaalsheibeh@gmail.com">انقر هنا للتواصل عبر الايميل</a><br/>
@@ -169,11 +145,8 @@ width:120px;
 </font>
 </div>
 </div>
-
- </aside>
- 
+ </aside> 
  <div class="square1" align="center">
-
 <br style="line-height:50px">
  <b>
  عيسى قاسم علي صالح الشيبة
@@ -199,9 +172,7 @@ width:120px;
        <br><br>
         <div class="t" align="right">
   <div class="t2" align="right">
-  
 الدورات التدريبية
-
  </div>
  </div>
  <br>
@@ -219,8 +190,7 @@ width:120px;
 . شهادة تدريبية من الادارة العامة لوقاية النبات - صنعاء -
 <br>
 (مختبر وقاية النبات - مختبر تحليل المبيدات - مختبر الاثر المتبقي للمبيدات) &nbsp;&nbsp;
-<br>
-           
+<br>           
            </font>
            <br>
  <div class="t" align="right">
@@ -259,18 +229,7 @@ width:120px;
   </font>
  </div>
  </div>
- <br>
- 
+ <br> 
 </article>
-
 </body>
-</html>
-<!--
-– الصبر والقدرة على تحمل ضغوط العمل .
-– اكتساب مهارات التخاطب والتعامل مع الاخرين (الاتصال والتواصل) .
-– العمل بروح الفريق الواحد مع السيرة والسلوك
-– ايجاد التخاطب والتحدث بالغة الانجليزية
-– القدرة على التعلم وتطوير المهارات 
-– القدره على قيادة السيارة
-– قيادة الحاسوب .
--->','dli':'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html'}
+</html>','dli':'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html'}
