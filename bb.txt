@@ -1,4 +1,4 @@
-{ver1:'23';
-ver2:'00';
-ver3: 'jih';
-dli:'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html';}
+{ver1='23';
+ver2='00';
+ver3='jih';
+dli='https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html';}
