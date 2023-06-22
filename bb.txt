@@ -1,4 +1,6 @@
-{'ver1':'23', 'ver2':'00', 'ver3':'<html>
+{ver1:23;
+ver2:00;
+ver3: '<html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet"></link>
 </head>
@@ -232,4 +234,5 @@ width:120px;
  <br>
 </article>
 </body>
-</html>','dli':'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html'}
+</html>';
+dli:'https://zawamods.blogspot.com/2023/05/ZAWhatsApp.html';}
