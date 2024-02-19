@@ -1,4 +1,4 @@
-Version 37 Changelog:
+Version 70 Changelog:
 
-> ًں› {Improved} More Anti-ban protection ًں›،ï¸ڈ.
+> ًں› {Improved} More Anti-ban by zaid protection ًں›،ï¸ڈ.
 > ًں› {Fixed} Other fixes and improvements. 
