@@ -4,7 +4,7 @@
     "reminder_time": "3",
     "update_version": "v60",
     "com.obwhatsapp": "https://updateomar.app/obwh",
-    "com.ob2whatsapp": "https://updateomar.app/obwh",
+    "com.za2whatsapp": "https://updateomar.app/obwh",
     "com.ob3whatsapp": "https://updateomar.app/obwh",
     "com.ob4whatsapp": "https://updateomar.app/obwh",
     "com.ob5whatsapp": "https://updateomar.app/obwh",
