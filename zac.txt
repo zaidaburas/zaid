@@ -1,1 +1,33 @@
-{'ver1':'27', 'ver2':'00', 'ver3':'➕ إضافة إضافة خيار جديد لإخفاء صوة الملف الشخصي من الشاشة الرئيسية (إضافات زيد أبوراس > الشاشة الرئيسية > البار العلوي).\n⚙️ إصلاح النسخ الاحتياطي والاستعادة في إصدارات اندرويد 13 وما فوق\n⚙️ إصلاح مساحة التخزين في إصدارات اندرويد 14\n⚙️ إصلاح اخطاء مباشرة في بعض الاجهزة\n⚙️ إصلاح تحميل الثيمات في اصدارات اندرويد 14\n⚙️ إصلاح المسافة عند تمرير بعض واجهات المستخدم\n⚙️ إصلاح البحث في المكالمات\n⚙️ إصلاح التعطل العشوائي لشريط الفقاعة السفلية\n⚙️ إصلاح إصلاحات الأخطاء العامة\n⚙️ مزيد استمتعوا واكتشفوا الجديد بنفسكم!\n⚙️ مزيد إصلاحات وتحسينات أخرى\n\n\n','dli':'https://zawamods.blogspot.com/2023/06/ZAWhatsApp.html'}
+{
+  "Gold": {
+    "update_code": "7",
+    "reminder_time": "3",
+    "update_version": "v28",
+    "com.obwhatsapp": "https://updateomar.app/obwh",
+    "com.ob2whatsapp": "https://updateomar.app/obwh",
+    "com.ob3whatsapp": "https://updateomar.app/obwh",
+    "com.ob4whatsapp": "https://updateomar.app/obwh",
+    "com.ob5whatsapp": "https://updateomar.app/obwh",
+    "com.ob6whatsapp": "https://updateomar.app/obwh",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 60</p>
+<li>ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„ط¥ط®ظپط§ط، ط§ط´ط¹ط§ط± ط§ظ„ط­ط§ظ„ط§طھ ط§ظ„ظ…ط­ط°ظˆظپط©</li>
+<li>طھط­ط³ظٹظ† ط²ط± ط­ظپط¸ ط§ظ„ط­ط§ظ„ط§طھ</li>
+<li>طھط­ط³ظٹظ† ط¸ظ‡ظˆط± ط²ط± ط§ظ„طھط±ط¬ظ…ط© ظپظٹ ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
+<li>طھط­ط³ظٹظ† ط¥ط´ط¹ط§ط± ظ…طھطµظ„ ط§ظ„ط§ظ†</li>
+<li>ط¥طµظ„ط§ط­ ط´ط§ط´ط© ط§ط±ط³ط§ظ„ ط§ظ„ظ…ظˆظ‚ط¹</li>
+<li>ط¥طµظ„ط§ط­ طھط®طµظٹطµ ط§ظ„ظ…ط­ط§ط¯ط«ط§طھ ظپظٹ ط­ط§ظ„ ظƒط§ظ† ط§ظ„ط±ظ‚ظ… ظ…ظپط¹ظ„ ط¹ظ„ظ‰ ظˆط§طھط³ط§ط¨ ط¨ط²ظ†ط³</li>
+<li>ط¥طµظ„ط§ط­ ط®ظٹط§ط± طھط´ط؛ظٹظ„ ط§ظ„ظپظٹط¯ظٹظˆظ‡ط§طھ ط¨ظ…ط´ط؛ظ„ ط®ط§ط±ط¬ظٹ</li>
+<li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
+
+<li>Added option to hide revoked story notification</li>
+<li>Improving Statues download fab</li>
+<li>Improving Translation button in chat</li>
+<li>Improving Online toast</li>
+<li>Fixed send location</li>
+<li>Fixed custom settings for businesse chats</li>
+<li>Fixed playing videos with Mx player</li>
+<li>Other fixes</li>
+"
+    }
+}
