@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "7",
     "reminder_time": "3",
-    "update_version": "v28",
+    "update_version": "v29",
     "com.obwhatsapp": "https://updateomar.app/obwh",
     "com.ob2whatsapp": "https://updateomar.app/obwh",
     "com.ob3whatsapp": "https://updateomar.app/obwh",
